@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Jihad Mahmud 👋
 
-<!--
-**jihadmahmud07/jihadmahmud07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Learning Programming
 
-Here are some ideas to get you started:
+🇯🇵 Living in Japan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Future Software Developer
+
+📚 Always learning new things
+
+## About Me
+
+* Learning HTML, CSS and JavaScript
+* Building personal projects
+* Interested in Web Development
+
+## Skills
+
+* HTML
+* CSS
+* JavaScript
+* Git & GitHub
+
+## Contact
+
+📧 [c25il107.jihad@gmail.com](mailto:c25il107.jihad@gmail.com)
